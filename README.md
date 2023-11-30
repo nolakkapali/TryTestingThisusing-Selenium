@@ -4,7 +4,6 @@ Login functional test has been executed using selenium webdriver with TestNG ann
 Automation tool: Selenium WebDriver,TestNG
 
 Browser: FireFox
-
 Tasks that are performed:
 
 1.Using Xpath and CSS selector input field are identified.
